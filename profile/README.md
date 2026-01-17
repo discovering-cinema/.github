@@ -38,6 +38,8 @@ Everyone's perspective enriches the conversation. You can:
 - Share insights from other discovery or recommender work
 - Discuss philosophical questions around taste, discovery, and data
 
+To get started, please read [`CONTRIBUTING.md`](../CONTRIBUTING.md).
+
 ## License
 
 Unless otherwise noted, this project is liecensed under the MIT License.
